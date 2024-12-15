@@ -5,8 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Chatter|App</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <stlye>
+
+    </stlye>
 </head>
 <body>
-    
+    <h1>Chatter|App</h1>
+    <h2>Favorites</h2>
+    <strong>MeetUp</strong>
+    <strong>Octoberfest</strong>
+    <h2>Regular</h2>
+    <strong>WeatherChannel</strong>
+    <strong>SevenContinents</strong>
+
 </body>
 </html>
